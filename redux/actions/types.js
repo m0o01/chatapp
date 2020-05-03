@@ -1,0 +1,17 @@
+export const RESTORE_TOKEN = "RESTORE_TOKEN";
+
+export const REGISTER_USER = "REGISTER_USER";
+export const REGISTER_SUCCESS = "REGISTER_SUCCESS";
+export const REGISTER_FAIL = "REGISTER_FAIL";
+
+export const LOGIN_USER = "LOGIN_USER";
+export const LOGIN_SUCCESS = "LOGIN_SUCCESS";
+export const LOGIN_FAIL = "LOGIN_FAIL";
+
+export const LOGOUT = "LOGOUT";
+
+export const DELETE_ERROR = "DELETE_ERROR";
+
+export const SEARCH_USER = "SEARCH_USER";
+export const SEARCH_USER_ERROR = "SEARCH_USER_ERROR";
+export const SEARCH_USER_FOUND = "SEARCH_USER_FOUND";
